@@ -1,17 +1,17 @@
 {
-    "name": "vitalis/hello-composer",
+    "name": "rams/hello-composer",
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ogbonna Vitalis",
-            "email": "agavitalisogbonna@gmail.com"
+            "name": "Singh rams",
+            "email": "ramth05@gmail.com"
         }
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"vitalis\\HelloWorld\\": "src/"}
+        "psr-4": {"rams\\HelloWorld\\": "src/"}
     },
     "require": {}
 }
