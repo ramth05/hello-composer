@@ -1,6 +1,7 @@
 <?php 
 
 
+
 namespace rams\HelloWorld;
 
 class Index
@@ -10,3 +11,4 @@ class Index
         return $greet;
     }
 }
+
